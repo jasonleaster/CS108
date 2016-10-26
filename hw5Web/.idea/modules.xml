@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicStoreWebsite/BasicStoreWebsite.iml" filepath="$PROJECT_DIR$/BasicStoreWebsite/BasicStoreWebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserLoginSystem/UserLoginSystem.iml" filepath="$PROJECT_DIR$/UserLoginSystem/UserLoginSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw5Web.iml" filepath="$PROJECT_DIR$/hw5Web.iml" />
+    </modules>
+  </component>
+</project>
